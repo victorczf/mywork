@@ -365,7 +365,7 @@
             }*/
 
            /* Console.WriteLine("请输入当前速度");
-            int speed =int.Parse(Console.ReadLine());
+            double speed =double.Parse(Console.ReadLine());
             string res = speed switch
             {
                 <= 30 => "低速通过",
