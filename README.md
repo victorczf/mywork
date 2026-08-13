@@ -48,3 +48,33 @@ Math.Ceiling()  // 向上取整（往大的整数靠）
 
 # Day2
 <img width="300" height="504" alt="image" src="https://github.com/user-attachments/assets/3402aee1-1d10-4fce-ac05-439917e2d334" />
+一.变量和集合
+1.任意类型
+dynamic 变量名 = 值 //不限制变量的类型  给任意类型的值，且可以修改成其他类型的值
+var 变量名 =值 // 自动捕获变量类型 ，不用主动声明，不可以修改其他类型的值
+2.匿名类型（略）
+3.数字字典
+Dictionly<键名的类型，键值的类型 >变量名 = new Dictionary<数据类型，数据类型>(){};
+或者简易写法 Dictionly<键名的类型，键值的类型> 变量名=new(){};
+注意事项：字典不像数组一样，他没有数字下标
+Dictionary<string, dynamic> dic = new()
+{
+    ["name"] = "陈三岁",
+    ["age"] = 21,
+    ["gender"] = "nan"
+};
+
+//①先把所有key提取出来转List，才能用i拿第i个键
+var keyList = dic.Keys.ToList(); 
+
+//②for循环遍历序号i
+for(int i = 0; i < dic.Count; i++)
+{
+    string key = keyList[i];    //先拿第i个键
+    var value = dic[key];       //再用键去字典拿值
+    Console.WriteLine($"键：{key}，值：{value}");
+}
+4.数组 
+
+
+
