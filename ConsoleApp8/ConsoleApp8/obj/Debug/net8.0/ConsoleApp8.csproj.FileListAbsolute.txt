@@ -1,0 +1,15 @@
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.sourcelink.json
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+D:\app\vsdemo\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll

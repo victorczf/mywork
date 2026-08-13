@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\app\\vsdemo\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CCC54A-9A39-4CD4-B27E-A0DDB772FACD}|ConsoleApp8\\ConsoleApp8.csproj|d:\\app\\vsdemo\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CCC54A-9A39-4CD4-B27E-A0DDB772FACD}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "D:\\app\\vsdemo\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv7AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T02:43:32.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
