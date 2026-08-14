@@ -1,7 +1,92 @@
 <details>
 <summary>📌 易混淆知识点 / 踩坑提醒（点击展开）</summary>
 
-这里直接写内容，不需要跳转链接。
+遍历篇 ：
+1.遍历字符串：（本质：char[]字符序列，只读，不能修改字符）
+string str = "hello";
+
+//① foreach 最常用
+foreach(char c in str)
+{
+    Console.Write(c + " ");
+}
+
+
+//② for循环（用索引）通过下标索引去遍历
+for(int i = 0; i < str.Length; i++)
+{
+    char c = str[i];
+    Console.Write(c + " ");
+}
+
+2.遍历 数组 Array（int [] /string []）
+//注意数组for循环遍历时是可以修改里面的元素的
+//foreash 只能读，不能改元素
+//定义一个数组
+int[] arr = {10,20,30,40};
+
+//① for 索引遍历，可以修改元素
+for(int i=0;i<arr.Length;i++)
+{
+    Console.WriteLine($"索引{i} 值={arr[i]}");
+    arr[i] +=1; //可以修改
+}
+
+//② foreach，只能读，不能改元素
+foreach(int item in arr)
+{
+    Console.WriteLine(item);
+    // item = 99; //报错，不能修改
+}
+
+
+3. List<T> 泛型列表
+
+List<int> list = new List<int>(){1,2,3,4};
+
+//① for索引遍历，可以修改
+for(int i=0;i<list.Count;i++)
+{
+    Console.WriteLine($"下标{i}：{list[i]}");
+    list[i] = list[i]*2; //支持修改
+}
+
+//② foreach只读遍历
+foreach(var item in list)
+{
+    Console.WriteLine(item);
+}
+
+区别重点：
+List 用 .Count，数组用 .Length（考试高频坑）
+List 可以增删元素；数组长度固定
+for 可以拿索引修改；foreach 不能修改集合元素
+
+
+4. Dictionary<TKey,TValue> 字典（键值对）
+
+Dictionary<string,int> dic = new Dictionary<string,int>();
+dic.Add("张三",18);
+dic.Add("李四",22);
+
+//方式1 foreach遍历每一对 KeyValuePair
+foreach(KeyValuePair<string,int> kv in dic)
+{
+    Console.WriteLine($"键：{kv.Key}  值：{kv.Value}");
+}
+这里面的KeyValuePair<string,int>代表每一组键值对的类型，可以用var代替
+
+//方式2 只遍历所有key
+foreach(string k in dic.Keys)
+{
+    Console.WriteLine($"key={k} value={dic[k]}");
+}
+
+//方式3 只遍历所有value
+foreach(int v in dic.Values)
+{
+    Console.WriteLine(v);
+}
 
 </details>
 
