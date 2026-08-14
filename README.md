@@ -1,3 +1,10 @@
+<details>
+<summary>📌 易混淆知识点 / 踩坑提醒（点击展开）</summary>
+
+这里直接写内容，不需要跳转链接。
+
+</details>
+
 # Day1
 
 <img width="314" height="351" alt="image" src="https://github.com/user-attachments/assets/8e4072e0-f6e6-4923-b1ba-5ac8a0ade33f" />
@@ -75,6 +82,26 @@ for(int i = 0; i < dic.Count; i++)
     Console.WriteLine($"键：{key}，值：{value}");
 }
 4.数组 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Day9
+
+一：委托
 
 
 
