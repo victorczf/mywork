@@ -1,4 +1,5 @@
 // ====================== 遍历篇 ======================
+
 // 1.遍历字符串：本质 char[] 字符序列，只读，不能修改字符
 string str = "hello";
 
@@ -20,10 +21,10 @@ for(int i = 0; i < str.Length; i++)
 int[] arr = {10,20,30,40};
 
 // ① for索引遍历，可以修改元素
-for(int i=0;i<arr.Length;i++)
+for(int i = 0; i < arr.Length; i++)
 {
     Console.WriteLine($"索引{i} 值={arr[i]}");
-    arr[i] +=1; // 支持修改
+    arr[i] += 1; // 支持修改
 }
 
 // ② foreach，只能读，不能修改元素
@@ -37,10 +38,10 @@ foreach(int item in arr)
 List<int> list = new List<int>(){1,2,3,4};
 
 // ① for索引遍历，可以修改
-for(int i=0;i<list.Count;i++)
+for(int i = 0; i < list.Count; i++)
 {
     Console.WriteLine($"下标{i}：{list[i]}");
-    list[i] = list[i]*2; // 支持修改
+    list[i] = list[i] * 2; // 支持修改
 }
 
 // ② foreach只读遍历
@@ -80,6 +81,7 @@ foreach(int v in dic.Values)
     Console.WriteLine(v);
 }
 
+
 // ====================== 正则篇 Regex ======================
 /*
 1. Regex.Match(字符串,正则规则)      按照规则从字符串提取单条内容
@@ -95,40 +97,14 @@ foreach(int v in dic.Values)
 ⚠️ 注意：a‑b 这种范围语法只在 [] 中括号内生效
 */
 
-// ---------------- 正则量词符号 ----------------
-/*
-| 符号   | 含义                 |
-| ------ | -------------------- |
-| *      | 任意个（0个及以上）  |
-| +      | 至少1个（1个及以上） |
-| ?      | 至多1个（0个或1个）  |
-| {m}    | 必须是 m 个          |
-| {m,}   | 至少 m 个            |
-| {m,n}  | 至少 m 个，至多 n 个 |
-*/
-
-// ---------------- 正则元字符 ----------------
-/*
-| 符号      | 含义                               |
-| --------- | ---------------------------------- |
-| .         | 任意一个字符                       |
-| \d        | 任意一个数字                       |
-| \w        | 任意一个字母、数字、下划线         |
-| \s        | 一个空格                           |
-| \D        | 任意一个非数字字符                 |
-| \W        | 任意一个非字母、数字、下划线字符   |
-| \S        | 任意一个非空格字符                 |
-| [字符]    | 中括号中的任意一个字符             |
-| [^字符]   | 非中括号中的任意一个字符           |
-*/
-
 // 1.字符串提取
 // string reg = @"a";
 // string str = "bac";
 // Match res = Regex.Match(str, reg);
 // Console.WriteLine(res.Value);
 
-// 分组提取：() 代表分组，Groups[0]是完整匹配，Groups[1...]各个括号分组
+// 分组提取：() 代表分组
+// Groups[0] 是完整匹配，Groups[1...] 各个括号分组
 // string reg = @"(\d{4})-(\d{2})-(\d{2})";
 // Match res = Regex.Match("2026-07-22", reg);
 // Console.WriteLine(res.Value);                // 2026-07-22
@@ -148,6 +124,7 @@ foreach(int v in dic.Values)
 // MatchCollection res = Regex.Matches("abc", reg);
 // Console.WriteLine(res[0]);
 // Console.WriteLine(res[1]);
+
 
 // ✨常用正则模板
 // 整串只能是中文、大小写字母、数字，不能为空
@@ -169,15 +146,13 @@ string reg3 = @"^[\u4e00-\u9fa5][0-9]{2,4}$";
 // 第2位：必须汉字
 // 3位往后：汉字/字母/数字
 // 总长度：最少3位，最多8位；无特殊符号、无空格；整串严格匹配
-string zongreg=@"^[a-zA-Z][\u4e00-\u9fa5][\u4e00-\u9fa5a-zA-Z0-9]{1,6}$";
+string zongreg = @"^[a-zA-Z][\u4e00-\u9fa5][\u4e00-\u9fa5a-zA-Z0-9]{1,6}$";
 
 // 验证测试代码
 Console.WriteLine("请验证:");
 string input = Console.ReadLine();
 bool matchResult = Regex.IsMatch(input, zongreg);
 Console.WriteLine(matchResult);
-
-
 
 
 
