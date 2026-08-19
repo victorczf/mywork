@@ -1,3 +1,7 @@
+<details>
+<summary>📌 易混淆知识点 / 踩坑提醒（点击展开）</summary>
+
+```csharp
 // ====================== 遍历篇 ======================
 
 // 1.遍历字符串：本质 char[] 字符序列，只读，不能修改字符
@@ -153,7 +157,6 @@ Console.WriteLine("请验证:");
 string input = Console.ReadLine();
 bool matchResult = Regex.IsMatch(input, zongreg);
 Console.WriteLine(matchResult);
-
 
 
 
