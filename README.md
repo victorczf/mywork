@@ -179,7 +179,7 @@ bool res = Regex.IsMatch(input, reg);
 Console.WriteLine(res);
 
 ```  
-
+</details>
 
 # Day1
 
