@@ -1,0 +1,15 @@
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.exe
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.deps.json
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.runtimeconfig.json
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.dll
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.pdb
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfo.cs
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.sourcelink.json
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.dll
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\refint\ConsoleApp11.dll
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.pdb
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.genruntimeconfig.cache
+D:\app\vsdemo\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ref\ConsoleApp11.dll

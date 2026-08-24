@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\app\\vsdemo\\ConsoleApp11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CB6F44-F75D-4E16-AE81-8DF2AE274D89}|ConsoleApp11\\ConsoleApp11.csproj|d:\\app\\vsdemo\\consoleapp11\\consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CB6F44-F75D-4E16-AE81-8DF2AE274D89}|ConsoleApp11\\ConsoleApp11.csproj|solutionrelative:consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\ConsoleApp11\\ConsoleApp11\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp11\\Program.cs",
+              "ToolTip": "D:\\app\\vsdemo\\ConsoleApp11\\ConsoleApp11\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp11\\Program.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA8wG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:57:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\app\vsdemo\Carsystem\Carsystem\bin\Debug\net8.0\Carsystem.exe
+D:\app\vsdemo\Carsystem\Carsystem\bin\Debug\net8.0\Carsystem.deps.json
+D:\app\vsdemo\Carsystem\Carsystem\bin\Debug\net8.0\Carsystem.runtimeconfig.json
+D:\app\vsdemo\Carsystem\Carsystem\bin\Debug\net8.0\Carsystem.dll
+D:\app\vsdemo\Carsystem\Carsystem\bin\Debug\net8.0\Carsystem.pdb
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.AssemblyInfoInputs.cache
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.AssemblyInfo.cs
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.csproj.CoreCompileInputs.cache
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.sourcelink.json
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.dll
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\refint\Carsystem.dll
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.pdb
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\Carsystem.genruntimeconfig.cache
+D:\app\vsdemo\Carsystem\Carsystem\obj\Debug\net8.0\ref\Carsystem.dll

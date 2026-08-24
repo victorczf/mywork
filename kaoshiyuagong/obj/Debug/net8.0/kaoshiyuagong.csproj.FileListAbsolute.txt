@@ -1,0 +1,14 @@
+D:\app\projram\kaoshiyuagong\bin\Debug\net8.0\kaoshiyuagong.exe
+D:\app\projram\kaoshiyuagong\bin\Debug\net8.0\kaoshiyuagong.deps.json
+D:\app\projram\kaoshiyuagong\bin\Debug\net8.0\kaoshiyuagong.runtimeconfig.json
+D:\app\projram\kaoshiyuagong\bin\Debug\net8.0\kaoshiyuagong.dll
+D:\app\projram\kaoshiyuagong\bin\Debug\net8.0\kaoshiyuagong.pdb
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.AssemblyInfoInputs.cache
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.AssemblyInfo.cs
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.csproj.CoreCompileInputs.cache
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.dll
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\refint\kaoshiyuagong.dll
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.pdb
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\kaoshiyuagong.genruntimeconfig.cache
+D:\app\projram\kaoshiyuagong\obj\Debug\net8.0\ref\kaoshiyuagong.dll

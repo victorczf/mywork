@@ -1,0 +1,14 @@
+D:\app\projram\kaoshizhengze\bin\Debug\net8.0\kaoshizhengze.exe
+D:\app\projram\kaoshizhengze\bin\Debug\net8.0\kaoshizhengze.deps.json
+D:\app\projram\kaoshizhengze\bin\Debug\net8.0\kaoshizhengze.runtimeconfig.json
+D:\app\projram\kaoshizhengze\bin\Debug\net8.0\kaoshizhengze.dll
+D:\app\projram\kaoshizhengze\bin\Debug\net8.0\kaoshizhengze.pdb
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.AssemblyInfoInputs.cache
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.AssemblyInfo.cs
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.csproj.CoreCompileInputs.cache
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.dll
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\refint\kaoshizhengze.dll
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.pdb
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\kaoshizhengze.genruntimeconfig.cache
+D:\app\projram\kaoshizhengze\obj\Debug\net8.0\ref\kaoshizhengze.dll
