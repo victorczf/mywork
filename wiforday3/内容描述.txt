@@ -1,0 +1,19 @@
+lianxi1文件中 练习了实时获取了鼠标的位置
+代码：
+public lainxi1()
+{
+    InitializeComponent();
+    //给这个窗体绑定鼠标移动
+    this.MouseMove += locktion;
+}
+//鼠标坐标
+private void  locktion( object sender,MouseEventArgs e) 
+{ 
+    label3.Text=e.Location.X.ToString();
+    label4.Text=e.Location.Y.ToString();
+
+}
+
+lianxi2中 练习了当光标失去的时候，文本框右边弹出不能为空的提示
+
+lianxi3中 复刻了轮播图
