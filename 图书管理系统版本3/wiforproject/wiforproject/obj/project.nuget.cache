@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "23Im8CgPKGQ=",
+  "success": true,
+  "projectFilePath": "D:\\app\\vsdemo\\wiforproject\\wiforproject\\wiforproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12848\\.nuget\\packages\\antdui\\2.4.8\\antdui.2.4.8.nupkg.sha512",
+    "C:\\Users\\12848\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\12848\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\12848\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

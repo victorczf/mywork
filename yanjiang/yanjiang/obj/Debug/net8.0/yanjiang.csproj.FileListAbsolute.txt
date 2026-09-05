@@ -1,0 +1,15 @@
+D:\app\vsdemo\yanjiang\yanjiang\bin\Debug\net8.0\yanjiang.exe
+D:\app\vsdemo\yanjiang\yanjiang\bin\Debug\net8.0\yanjiang.deps.json
+D:\app\vsdemo\yanjiang\yanjiang\bin\Debug\net8.0\yanjiang.runtimeconfig.json
+D:\app\vsdemo\yanjiang\yanjiang\bin\Debug\net8.0\yanjiang.dll
+D:\app\vsdemo\yanjiang\yanjiang\bin\Debug\net8.0\yanjiang.pdb
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.AssemblyInfoInputs.cache
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.AssemblyInfo.cs
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.csproj.CoreCompileInputs.cache
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.sourcelink.json
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.dll
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\refint\yanjiang.dll
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.pdb
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\yanjiang.genruntimeconfig.cache
+D:\app\vsdemo\yanjiang\yanjiang\obj\Debug\net8.0\ref\yanjiang.dll

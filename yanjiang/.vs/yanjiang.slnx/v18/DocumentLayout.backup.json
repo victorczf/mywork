@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\app\\vsdemo\\yanjiang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|d:\\app\\vsdemo\\yanjiang\\yanjiang\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B800B0-A109-4C0B-A018-05C74F92F875}|yanjiang\\yanjiang.csproj|solutionrelative:yanjiang\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class8.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class8.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class8.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class8.cs",
+              "RelativeToolTip": "yanjiang\\Class8.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:27:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class7.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class7.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class7.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class7.cs",
+              "RelativeToolTip": "yanjiang\\Class7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:20:36.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class6.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class6.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class6.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class6.cs",
+              "RelativeToolTip": "yanjiang\\Class6.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:59:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class5.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class5.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class5.cs",
+              "RelativeToolTip": "yanjiang\\Class5.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:08:44.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class2.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class2.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class2.cs",
+              "RelativeToolTip": "yanjiang\\Class2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:13:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class1.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class1.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class1.cs",
+              "RelativeToolTip": "yanjiang\\Class1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T08:59:02.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Program.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Program.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Program.cs*",
+              "RelativeToolTip": "yanjiang\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:25:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class3.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class3.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class3.cs",
+              "RelativeToolTip": "yanjiang\\Class3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:49:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class4.cs",
+              "RelativeDocumentMoniker": "yanjiang\\Class4.cs",
+              "ToolTip": "D:\\app\\vsdemo\\yanjiang\\yanjiang\\Class4.cs",
+              "RelativeToolTip": "yanjiang\\Class4.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:03:39.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
