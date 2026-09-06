@@ -4,30 +4,26 @@
     {
         static void Main(string[] args)
         {
-
-           
-            Random rnd = new Random();
-            int[] arr = new int[10];
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] = rnd.Next(1, 51); 
-            }
-  
+            string s = "";
+             int []arr = new int[10];
             int sum = 0;
-            foreach (int num in arr)
+            Random  ran=new Random();
+            for (int i = 0; i < 10; i++)
             {
-                sum += num;
+                arr[i]=ran.Next(1,50);
+                 sum = arr[i] + sum;
+              
             }
-            double avg = sum / 10.0;
+            double pj = sum / 10;
 
-            Console.WriteLine("数组元素：");
-            foreach (int num in arr)
+            foreach (int i in arr)
             {
-                Console.Write(num + " ");
+                s = s+i.ToString() + " ";
             }
-            Console.WriteLine();
-            Console.WriteLine($"总和：{sum}");
-            Console.WriteLine($"平均值：{avg}");
+            Console.WriteLine($"改数组中的所有元素为{s}");
+            Console.WriteLine($"改数组中的所有元素的平均值为："+pj);
+            Console.WriteLine($"改数组中的所有元素的总和为："+sum);
+
         }
 
     }

@@ -1,0 +1,15 @@
+D:\app\vsdemo\kaoshixunhuan\bin\Debug\net8.0\kaoshixunhuan.exe
+D:\app\vsdemo\kaoshixunhuan\bin\Debug\net8.0\kaoshixunhuan.deps.json
+D:\app\vsdemo\kaoshixunhuan\bin\Debug\net8.0\kaoshixunhuan.runtimeconfig.json
+D:\app\vsdemo\kaoshixunhuan\bin\Debug\net8.0\kaoshixunhuan.dll
+D:\app\vsdemo\kaoshixunhuan\bin\Debug\net8.0\kaoshixunhuan.pdb
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.AssemblyInfoInputs.cache
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.AssemblyInfo.cs
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.csproj.CoreCompileInputs.cache
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.sourcelink.json
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.dll
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\refint\kaoshixunhuan.dll
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.pdb
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\kaoshixunhuan.genruntimeconfig.cache
+D:\app\vsdemo\kaoshixunhuan\obj\Debug\net8.0\ref\kaoshixunhuan.dll

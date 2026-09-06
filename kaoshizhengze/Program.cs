@@ -1,38 +1,50 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
-namespace kaoshizhengze
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        string[] strarr = new string[] { " 015616466 ", " 你是谁", "18070623303", " 12565131661", " 加油啊" };
+        List<string> list = new List<string>();
+
+        for (int i = 0; i < strarr.Length; i++)
+        {      
+            string a = strarr[i].Trim().ToLower();
+            list.Add(a);
+        }
+
+        string sumtest = "";
+        string sumphone = "";
+        string sumfalsephone = "";
+
+        foreach (string str in list)
         {
+            bool isRightPhone = Regex.IsMatch(str, @"^1[34578]\d{9}$");
+          
+            bool isAllNum = Regex.IsMatch(str, @"^\d+$");
 
-            string[] strArr = { " 13812345678 ", "HelloABC", " 15987654321 ", "123456", " 17600001111 " };
-
-           
-            string phoneReg = @"^1[34578]\d{10}$";
-
-            foreach (string item in strArr)
+            if (isRightPhone)
             {
-                //去除前后空格，字母转小写
-                string s = item.Trim().ToLower();
-
-                //3.正则手机号
-                if (Regex.IsMatch(s, phoneReg))
-                {
-                    Console.WriteLine($"合法手机号：{s}");
-                }
-                else if (Regex.IsMatch(s, @"^\d+$"))
-                {
-                    Console.WriteLine($"非法手机号：{s}");
-                }
-                else
-                {
-                    Console.WriteLine($"普通文本：{s}");
-                }
+                sumphone += str + " ";
+            }
+            else if (isAllNum)
+            {
+       
+                sumfalsephone += str + " ";
+            }
+            else
+            {
+     
+                sumtest += str + " ";
             }
         }
+
+        Console.WriteLine("普通文本为：" + sumtest);
+        Console.WriteLine("=======");
+        Console.WriteLine("正确手机号为：" + sumphone);
+        Console.WriteLine("=======");
+        Console.WriteLine("非法手机号为：" + sumfalsephone); 
     }
 }
-   
-

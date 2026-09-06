@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\app\\projram\\kaoshizhengze\\kaoshizhengze.csproj": {}
+    "D:\\app\\vsdemo\\kaoshizhengze\\kaoshizhengze.csproj": {}
   },
   "projects": {
-    "D:\\app\\projram\\kaoshizhengze\\kaoshizhengze.csproj": {
+    "D:\\app\\vsdemo\\kaoshizhengze\\kaoshizhengze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app\\projram\\kaoshizhengze\\kaoshizhengze.csproj",
+        "projectUniqueName": "D:\\app\\vsdemo\\kaoshizhengze\\kaoshizhengze.csproj",
         "projectName": "kaoshizhengze",
-        "projectPath": "D:\\app\\projram\\kaoshizhengze\\kaoshizhengze.csproj",
+        "projectPath": "D:\\app\\vsdemo\\kaoshizhengze\\kaoshizhengze.csproj",
         "packagesPath": "C:\\Users\\12848\\.nuget\\packages\\",
-        "outputPath": "D:\\app\\projram\\kaoshizhengze\\obj\\",
+        "outputPath": "D:\\app\\vsdemo\\kaoshizhengze\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12848\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -40,10 +41,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

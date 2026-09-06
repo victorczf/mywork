@@ -13,7 +13,7 @@ namespace wiforproject.all
 {
     public partial class BookAddandEdit : Form
     {
-       
+        public static  string ConnStr = "server=127.0.0.1;port=3306;database=test;uid=root;pwd=root;charset=utf8";
         private string _editBookId = null;
         public BookAddandEdit()
         {
@@ -48,7 +48,7 @@ namespace wiforproject.all
         //编写一个逻辑:通过id 查询数据库里面的数据 数据回显
         private void mysqlrebook(string Id)
         {
-            string ConnStr = "server=127.0.0.1;port=3306;database=test;uid=root;pwd=root;charset=utf8";
+           
             using (MySqlConnection mysqlconn = new MySqlConnection(ConnStr))
             {
                 mysqlconn.Open();
