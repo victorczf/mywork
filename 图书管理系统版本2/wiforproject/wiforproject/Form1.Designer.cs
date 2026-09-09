@@ -31,7 +31,6 @@
             label1 = new AntdUI.Label();
             button1 = new AntdUI.Button();
             button2 = new AntdUI.Button();
-            label2 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -60,28 +59,17 @@
             button2.TabIndex = 1;
             button2.Text = "button1";
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(210, 98);
-            label2.Name = "label2";
-            label2.Size = new Size(44, 17);
-            label2.TabIndex = 2;
-            label2.Text = "未登录";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(label2);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
@@ -89,6 +77,5 @@
         private AntdUI.Label label1;
         private AntdUI.Button button1;
         private AntdUI.Button button2;
-        private Label label2;
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23Im8CgPKGQ=",
+  "dgSpecHash": "mJJowS/Cjg8=",
   "success": true,
-  "projectFilePath": "D:\\app\\vsdemo\\wiforproject\\wiforproject\\wiforproject.csproj",
+  "projectFilePath": "D:\\app\\vsdemo\\图书管理系统版本2\\wiforproject\\wiforproject\\wiforproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\12848\\.nuget\\packages\\antdui\\2.4.8\\antdui.2.4.8.nupkg.sha512",
     "C:\\Users\\12848\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

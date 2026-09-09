@@ -34,8 +34,6 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             button1 = new Button();
-            button2 = new AntdUI.Button();
-            label4 = new AntdUI.Label();
             SuspendLayout();
             // 
             // label1
@@ -88,32 +86,11 @@
             button1.Text = "登录";
             button1.UseVisualStyleBackColor = true;
             // 
-            // button2
-            // 
-            button2.Location = new Point(407, 237);
-            button2.Name = "button2";
-            button2.Size = new Size(95, 41);
-            button2.TabIndex = 5;
-            button2.Text = "注册";
-            button2.UseMnemonic = false;
-            button2.Click += button2_Click;
-            // 
-            // label4
-            // 
-            label4.Location = new Point(508, 246);
-            label4.Name = "label4";
-            label4.Size = new Size(109, 23);
-            label4.TabIndex = 6;
-            label4.Text = "没有账号请先注册";
-           
-            // 
             // login
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(label4);
-            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -134,7 +111,5 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Button button1;
-        private AntdUI.Button button2;
-        private AntdUI.Label label4;
     }
 }
