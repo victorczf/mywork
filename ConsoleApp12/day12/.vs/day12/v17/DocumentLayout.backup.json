@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\motioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\motioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91FE08F-6BBD-4E87-A5AE-65597F5F46D1}|ohter\\ohter.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\ohter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91FE08F-6BBD-4E87-A5AE-65597F5F46D1}|ohter\\ohter.csproj|solutionrelative:ohter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\bookmanager\\bookmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5499DF1D-7206-4BF6-B209-CCBA6D31DC40}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\bookmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\day12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\day12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\singleinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAC05-943C-415B-B662-C7470B7876B2}|day12\\day12.csproj|solutionrelative:day12\\singleinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\Program.cs",
+              "RelativeDocumentMoniker": "BookManager\\Program.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\Program.cs",
+              "RelativeToolTip": "BookManager\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:10:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\ohter\\Program.cs",
+              "RelativeDocumentMoniker": "ohter\\Program.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\ohter\\Program.cs",
+              "RelativeToolTip": "ohter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:07:59.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PLC.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\PLC.cs",
+              "RelativeDocumentMoniker": "day12\\PLC.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\PLC.cs",
+              "RelativeToolTip": "day12\\PLC.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:15.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Program.cs",
+              "RelativeDocumentMoniker": "day12\\Program.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Program.cs",
+              "RelativeToolTip": "day12\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManager.csproj",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\BookManager.csproj",
+              "RelativeDocumentMoniker": "BookManager\\BookManager.csproj",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\BookManager.csproj",
+              "RelativeToolTip": "BookManager\\BookManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-17T10:07:42.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManager\\BookManager.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\BookManager\\BookManager.cs",
+              "RelativeToolTip": "BookManager\\BookManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwKMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:07:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "day12.csproj",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\day12.csproj",
+              "RelativeDocumentMoniker": "day12\\day12.csproj",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\day12.csproj",
+              "RelativeToolTip": "day12\\day12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-17T10:07:46.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Person.cs",
+              "RelativeDocumentMoniker": "day12\\Person.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Person.cs",
+              "RelativeToolTip": "day12\\Person.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:25.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotionController.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\MotionController.cs",
+              "RelativeDocumentMoniker": "day12\\MotionController.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\MotionController.cs",
+              "RelativeToolTip": "day12\\MotionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:10.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Device.cs",
+              "RelativeDocumentMoniker": "day12\\Device.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Device.cs",
+              "RelativeToolTip": "day12\\Device.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Camera.cs",
+              "RelativeDocumentMoniker": "day12\\Camera.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Camera.cs",
+              "RelativeToolTip": "day12\\Camera.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:04:58.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Animal.cs",
+              "RelativeDocumentMoniker": "day12\\Animal.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\Animal.cs",
+              "RelativeToolTip": "day12\\Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:05:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingleInstance.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\SingleInstance.cs",
+              "RelativeDocumentMoniker": "day12\\SingleInstance.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\12day\\02-\u4EE3\u7801\\day12\\day12\\SingleInstance.cs",
+              "RelativeToolTip": "day12\\SingleInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:07:35.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

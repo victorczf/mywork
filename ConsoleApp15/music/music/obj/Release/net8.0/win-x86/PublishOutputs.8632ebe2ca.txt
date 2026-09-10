@@ -1,0 +1,2 @@
+D:\视觉02\14day\02-代码\music\music\bin\Release\net8.0\publish\win-x86\music.pdb
+D:\视觉02\14day\02-代码\music\music\bin\Release\net8.0\publish\win-x86\music.exe

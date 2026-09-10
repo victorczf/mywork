@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wiforproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559321ed6d55d73d5f78a1cd85f7fa717d501bd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371ffeb5845302877a36404de07ad8c043f6ce9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("wiforproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wiforproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

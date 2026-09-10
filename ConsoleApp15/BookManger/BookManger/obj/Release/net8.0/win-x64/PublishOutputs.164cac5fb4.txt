@@ -1,0 +1,2 @@
+D:\视觉02\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\publish\win-x64\BookManger.pdb
+D:\视觉02\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\publish\win-x64\BookManger.exe

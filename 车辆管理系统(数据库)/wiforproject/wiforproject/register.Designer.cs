@@ -190,6 +190,7 @@
             Controls.Add(label1);
             Name = "register";
             Text = "register";
+         
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

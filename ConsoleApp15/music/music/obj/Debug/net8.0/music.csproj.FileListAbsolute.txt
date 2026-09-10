@@ -1,0 +1,14 @@
+D:\视觉02\14day\02-代码\music\music\bin\Debug\net8.0\music.exe
+D:\视觉02\14day\02-代码\music\music\bin\Debug\net8.0\music.deps.json
+D:\视觉02\14day\02-代码\music\music\bin\Debug\net8.0\music.runtimeconfig.json
+D:\视觉02\14day\02-代码\music\music\bin\Debug\net8.0\music.dll
+D:\视觉02\14day\02-代码\music\music\bin\Debug\net8.0\music.pdb
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.GeneratedMSBuildEditorConfig.editorconfig
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.AssemblyInfoInputs.cache
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.AssemblyInfo.cs
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.csproj.CoreCompileInputs.cache
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.dll
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\refint\music.dll
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.pdb
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\music.genruntimeconfig.cache
+D:\视觉02\14day\02-代码\music\music\obj\Debug\net8.0\ref\music.dll

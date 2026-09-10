@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F700E-3272-4344-93B7-754F8DDEBD4C}|day14\\day14.csproj|d:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F700E-3272-4344-93B7-754F8DDEBD4C}|day14\\day14.csproj|solutionrelative:day14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F700E-3272-4344-93B7-754F8DDEBD4C}|day14\\day14.csproj|d:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F700E-3272-4344-93B7-754F8DDEBD4C}|day14\\day14.csproj|solutionrelative:day14\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "struct.cs",
+              "DocumentMoniker": "D:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\struct.cs",
+              "RelativeDocumentMoniker": "day14\\struct.cs",
+              "ToolTip": "D:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\struct.cs",
+              "RelativeToolTip": "day14\\struct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T06:27:29.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\Program.cs",
+              "RelativeDocumentMoniker": "day14\\Program.cs",
+              "ToolTip": "D:\\\u89C6\u89C902\\14day\\02-\u4EE3\u7801\\day14\\day14\\Program.cs",
+              "RelativeToolTip": "day14\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T06:14:30.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -58,7 +58,8 @@
             button2.Name = "button2";
             button2.Size = new Size(153, 81);
             button2.TabIndex = 1;
-            button2.Text = "button1";
+            button2.Text = "车辆管理系统";
+            button2.Click += button2_Click;
             // 
             // label2
             // 

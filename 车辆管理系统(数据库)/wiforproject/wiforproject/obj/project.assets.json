@@ -249,11 +249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\app\\vsdemo\\图书管理系统版本4\\wiforproject\\wiforproject\\wiforproject.csproj",
+      "projectUniqueName": "D:\\app\\vsdemo\\车辆管理系统(数据库)\\wiforproject\\wiforproject\\wiforproject.csproj",
       "projectName": "wiforproject",
-      "projectPath": "D:\\app\\vsdemo\\图书管理系统版本4\\wiforproject\\wiforproject\\wiforproject.csproj",
+      "projectPath": "D:\\app\\vsdemo\\车辆管理系统(数据库)\\wiforproject\\wiforproject\\wiforproject.csproj",
       "packagesPath": "C:\\Users\\12848\\.nuget\\packages\\",
-      "outputPath": "D:\\app\\vsdemo\\图书管理系统版本4\\wiforproject\\wiforproject\\obj\\",
+      "outputPath": "D:\\app\\vsdemo\\车辆管理系统(数据库)\\wiforproject\\wiforproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12848\\AppData\\Roaming\\NuGet\\NuGet.Config",

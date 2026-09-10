@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\BookManger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\bookmanger\\bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\bookmanger\\bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\BookManger\\BookManger\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManger\\BookManager.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\BookManger\\BookManger\\BookManager.cs",
+              "RelativeToolTip": "BookManger\\BookManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T02:30:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\BookManger\\BookManger\\Program.cs",
+              "RelativeDocumentMoniker": "BookManger\\Program.cs",
+              "ToolTip": "D:\\ai\u89C6\u89C9\\\u6B63\u8BFE\u8D44\u6599\\13day\\02-\u4EE3\u7801\\BookManger\\BookManger\\Program.cs",
+              "RelativeToolTip": "BookManger\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T02:29:13.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

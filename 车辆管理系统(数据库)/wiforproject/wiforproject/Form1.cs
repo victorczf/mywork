@@ -44,11 +44,24 @@ namespace wiforproject
                 bookshow.FormClosed += close;
             }
         }
-        private void close(object sender,EventArgs e) 
+        private void close(object sender, EventArgs e)
         {
             this.Show();
         }
 
+        //点击 这个车辆管理系统 的按钮
+        private void button2_Click(object sender, EventArgs e)
+        {
+            carForm carform  = new carForm();
+            carform.Show();
+            this.Hide();
+            carform.FormClosed += carformclose;
+        }
 
+        private void carformclose(object? sender, FormClosedEventArgs e)
+        {
+            //throw new NotImplementedException();
+            this.Show();
+        }
     }
 }
